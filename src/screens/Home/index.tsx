@@ -1,6 +1,6 @@
 import AlertDialog from "../../Components/Modal";
-import dekstopview from "../../assets/Dekstopviewf.jpg";
-import mobileview from "../../assets/mobileviewf.jpg";
+import dekstopview from "../../assets/dimond.jpeg";
+import mobileview from "../../assets/dimondMob.jpeg";
 export default function Home() {
   // let [win, setWin] = useState(window.innerWidth)
   return (
