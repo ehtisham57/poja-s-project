@@ -6,7 +6,7 @@ import DialogContentText from '@mui/material/DialogContentText';
 import "./index.css"
 
 export default function AlertDialog() {
-    const [open, setOpen] = React.useState(false);
+    const [open, setOpen] = React.useState(true);
 
     const handleClickOpen = () => {
         setOpen(true)
