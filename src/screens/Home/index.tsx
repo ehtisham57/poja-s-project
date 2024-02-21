@@ -13,14 +13,14 @@ export default function Home() {
               id="dekstop"
               src={dekstopview}
               style={{ width: "100%" }}
-              alt=""
+              alt="image"
             />
           ) : (
             <img
               id="mobile"
               src={mobileview}
               style={{ width: "100%", height: "100%" }}
-              alt=""
+              alt="image"
             />
           )}
         </div>

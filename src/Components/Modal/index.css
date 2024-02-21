@@ -1,0 +1,9 @@
+@media screen and (max-width : 425px) {
+    .dialogBox{
+        margin:  0 !important;
+        padding: 10px 20px !important;
+    }
+    .dialogBoxpara{
+        font-size: 12px !important;
+    }
+}
