@@ -10,7 +10,7 @@ export default function AlertDialog() {
 
     const handleClickOpen = () => {
         setOpen(true)
-        window.location.replace("https://clicks.trackcb.com/aff_c?offer_id=42&aff_id=3583")
+        window.location.replace("https://goldenmonk.com/?oid=10&affid=882")
         // window.location.replace("/")
     }
 
@@ -29,7 +29,7 @@ export default function AlertDialog() {
                     <DialogContentText className='dialogBoxpara' id="alert-dialog-description">
                         This website uses cookies to ensure you get the best experience on our website.<br />
 
-                        <a style={{ margin: "20px 0px" }} href="https://clicks.trackcb.com/aff_c?offer_id=42&aff_id=3583">Learn More</a>
+                        <a style={{ margin: "20px 0px" }} href="https://goldenmonk.com/?oid=10&affid=882">Learn More</a>
 
                         <Button style={{ marginTop: "20px", width: "100%", backgroundColor: "#0084d6", color: "#fff" }} onClick={handleClickOpen}>YES, I ACCEPT COOKIES</Button>
                     </DialogContentText>
